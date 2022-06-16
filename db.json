@@ -4,15 +4,10 @@
       "id": 1,
       "title": "Woofing those bugs away",
       "likes": 0,
-      "image": "./assets/coder-dog.png"
+      "image": "https://images.dog.ceo/breeds/greyhound-italian/n02091032_11088.jpg"
     }
   ],
   "comments": [
-    {
-      "id": 1,
-      "imageId": 1,
-      "content": "What a cute dog!"
-    },
     {
       "id": 2,
       "imageId": 1,
